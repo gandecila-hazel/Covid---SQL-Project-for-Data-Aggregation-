@@ -1,4 +1,4 @@
-# Covid-SQL---Project-for-Data-Aggregation
+# **Covid-SQL---Project-for-Data-Aggregation**
 ## This project explores data aggregation techniques in SQL to gain insights into the global COVID-19 pandemic.
 
 Utilizing a robust COVID database, we'll leverage SQL functionalities to analyze various aspects, including:
